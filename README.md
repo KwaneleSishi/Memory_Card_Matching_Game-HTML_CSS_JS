@@ -20,3 +20,5 @@ Key Concepts Tested</br>
 Array manipulation (shuffle, forEach)</br>
 CSS Grid for game layout</br>
 Event listeners for card interactions</br>
+
+![preview img](/Preview.png)
