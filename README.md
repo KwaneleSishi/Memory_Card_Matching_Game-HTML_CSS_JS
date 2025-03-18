@@ -20,9 +20,3 @@ Key Concepts Tested</br>
 Array manipulation (shuffle, forEach)</br>
 CSS Grid for game layout</br>
 Event listeners for card interactions</br>
-
-<video width="600" controls>
-  <source src="https://github.com/KwaneleSishi/Memory_Card_Matching_Game-HTML_CSS_JS/blob/master/Preview%20of%20the%20Game.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
