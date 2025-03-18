@@ -2,7 +2,7 @@ Memory Card Matching Game
 Objective
 Create a grid of cards that users flip to find matching pairs.
 
-Technical Requirements
+Technical Requirements</br>
 ✅ Use CSS Grid to create a 4x4 board</br>
 ✅ Generate 8 pairs of matching symbols (e.g., emojis, letters)</br>
 ✅ Shuffle cards randomly on page load</br>
