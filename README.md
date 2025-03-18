@@ -1,5 +1,5 @@
-Memory Card Matching Game
-Objective
+Memory Card Matching Game</br>
+Objective</br>
 Create a grid of cards that users flip to find matching pairs.
 
 Technical Requirements</br>
@@ -10,12 +10,12 @@ Technical Requirements</br>
 ✅ Check for matches and leave matched cards face-up</br>
 ✅ Reset unmatched cards after 1 second</br>
 
-Bonus Features
+Bonus Features</br>
 ✨ Add flip animations using CSS transitions</br>
 ✨ Track and display score (number of attempts)</br>
 ✨ Add a win condition when all pairs are matched</br>
 
-Key Concepts Tested
+Key Concepts Tested</br>
 Array manipulation (shuffle, forEach)</br>
 CSS Grid for game layout</br>
 Event listeners for card interactions</br>
